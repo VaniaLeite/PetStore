@@ -1,0 +1,18 @@
+{
+  "id": 1951020223,
+  "category": {
+  "id": 1,
+    "name": "ADFRH5G8GGG"
+  },
+  "name": "Thor",
+  "photoUrls": [
+  "string"
+],
+  "tags": [
+    {
+      "id": 20210817,
+      "name": "data"
+  }
+  ],
+  "status": "available"
+}
